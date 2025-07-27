@@ -1,7 +1,3 @@
-Certainly. Here's the complete, clean documentation with the code snippet at the top, followed by a **focused explanation** on `useMemo`, `useCallback`, and their variations.
-
----
-
 ### **Code**
 
 ```jsx
